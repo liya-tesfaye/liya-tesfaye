@@ -7,7 +7,7 @@ I build low-level systems software and the infrastructure around it — from ker
 ## What I'm working on
 
 - **[ProcWatch](https://github.com/liya-tesfaye/procwatch)** — Event-driven Linux telemetry agent in C, using Netlink process events and inotify multiplexed through a single `select()` loop, with real-time `/proc` enrichment and structured JSON output.
-- **[Portfolio Service](https://github.com/liya-tesfaye/PE_fellowship_portfolio)** — A Flask + MariaDB app deployed as a multi-container production service: Docker Compose orchestration, Nginx reverse proxy with automated Let's Encrypt TLS, per-IP rate limiting, and CI/CD.
+- **[Portfolio Service](https://github.com/liya-tesfaye/portfolio)** — A Flask + MariaDB app deployed as a multi-container production service: Docker Compose orchestration, Nginx reverse proxy with automated Let's Encrypt TLS, per-IP rate limiting, and CI/CD.
 - **[netrecon](https://github.com/liya-tesfaye/netrecon)** — Multithreaded Python network reconnaissance tool: port scanning, banner grabbing, structured JSON reporting.
 - **[port-scanner](https://github.com/liya-tesfaye/port-scanner)** — Multithreaded TCP port scanner in C using low-level BSD sockets.
 
