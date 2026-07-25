@@ -1,4 +1,4 @@
-# Hi, I'm Liya 👋
+# Hi, I'm Liya
 
 B.S. Computer Science & Cyber Operations @ Dakota State University · Production Engineering Fellow @ Major League Hacking × Meta
 
